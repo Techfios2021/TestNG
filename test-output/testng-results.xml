@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3630" started-at="2021-11-23T13:56:31 CST" finished-at="2021-11-23T13:56:34 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3630" started-at="2021-11-23T13:56:31 CST" finished-at="2021-11-23T13:56:34 CST">
+      <class name="Test.DropdownMonths">
+        <test-method status="PASS" signature="beforerun()[pri:0, instance:Test.DropdownMonths@1f57539]" name="beforerun" is-config="true" duration-ms="2627" started-at="2021-11-23T13:56:31 CST" finished-at="2021-11-23T13:56:33 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforerun -->
+        <test-method status="PASS" signature="months()[pri:0, instance:Test.DropdownMonths@1f57539]" name="months" duration-ms="335" started-at="2021-11-23T13:56:33 CST" finished-at="2021-11-23T13:56:34 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- months -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Test.DropdownMonths@1f57539]" name="close" is-config="true" duration-ms="641" started-at="2021-11-23T13:56:34 CST" finished-at="2021-11-23T13:56:34 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Test.DropdownMonths -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

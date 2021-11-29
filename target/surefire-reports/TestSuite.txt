@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 12.208 sec <<< FAILURE!
+addcat(Test.AddCategoryTest)  Time elapsed: 2.015 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Test.AddCategoryTest.addcat(AddCategoryTest.java:33)
+
+addDuplicate(Test.DuplicateCategoryTest)  Time elapsed: 3.018 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at Test.DuplicateCategoryTest.addDuplicate(DuplicateCategoryTest.java:27)
+
